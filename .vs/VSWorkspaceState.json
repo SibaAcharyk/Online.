@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\OnlineProductsPortal",
+    "\\OnlineProductsPortal\\obj",
+    "\\OnlineProductsPortal\\Pages",
+    "\\OnlineProductsPortal\\Pages\\Shared",
+    "\\OnlineProductsPortal\\Properties",
+    "\\OnlineProductsPortal\\wwwroot"
   ],
-  "SelectedNode": "\\C:\\Users\\shiva\\Source\\Repos\\SibaAcharyk\\Online",
+  "SelectedNode": "\\OnlineProductsPortal\\Pages\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
